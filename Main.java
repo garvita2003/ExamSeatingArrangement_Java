@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Enter admin password:");
             String adminPassword = scanner.nextLine();
             if (adminUsername.equals("Garvita") || adminPassword.equals("12345")) {
-                System.out.println("You have Logged in....");
+                System.out.println("You have Logged in Garvita Kesarwani.");
             }
             
             // Admin input
